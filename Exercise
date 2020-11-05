@@ -1,0 +1,4 @@
+#! /bin/bash
+
+echo "saat ini tanggal : $(date)" > Exercise.txt
+echo "============================" > Exercise.txt
